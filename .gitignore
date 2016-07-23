@@ -1,3 +1,6 @@
+# Affinity file
+*.afdesign
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
